@@ -1,0 +1,3 @@
+D:/project/C++/Chapter 10/usestock10/cmake-build-debug/CMakeFiles/usestock10.dir
+D:/project/C++/Chapter 10/usestock10/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/project/C++/Chapter 10/usestock10/cmake-build-debug/CMakeFiles/rebuild_cache.dir

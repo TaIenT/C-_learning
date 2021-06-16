@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/project/C++/Chapter 10/usestock00/main.cpp
+iostream
+-
+stock00.h
+D:/project/C++/Chapter 10/usestock00/stock00.h
+
+D:/project/C++/Chapter 10/usestock00/stock00.cpp
+iostream
+-
+stock00.h
+D:/project/C++/Chapter 10/usestock00/stock00.h
+
+D:/project/C++/Chapter 10/usestock00/stock00.h
+string
+-
+

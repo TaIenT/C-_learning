@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/project/C++/Chapter 13/usett1/main.cpp
+iostream
+-
+tabtenn1.h
+D:/project/C++/Chapter 13/usett1/tabtenn1.h
+
+D:/project/C++/Chapter 13/usett1/tabtenn1.cpp
+tabtenn1.h
+D:/project/C++/Chapter 13/usett1/tabtenn1.h
+iostream
+-
+
+D:/project/C++/Chapter 13/usett1/tabtenn1.h
+string
+-
+

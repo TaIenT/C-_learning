@@ -1,0 +1,3 @@
+D:/project/C++/twoswap/cmake-build-debug/CMakeFiles/twoswap.dir
+D:/project/C++/twoswap/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/project/C++/twoswap/cmake-build-debug/CMakeFiles/rebuild_cache.dir

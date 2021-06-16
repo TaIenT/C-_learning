@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/project/C++/Chapter 12/saying1/main.cpp
+iostream
+-
+string1.h
+D:/project/C++/Chapter 12/saying1/string1.h
+
+D:/project/C++/Chapter 12/saying1/string1.cpp
+cstring
+-
+string1.h
+D:/project/C++/Chapter 12/saying1/string1.h
+
+D:/project/C++/Chapter 12/saying1/string1.h
+iostream
+-
+

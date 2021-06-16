@@ -1,0 +1,3 @@
+"D:\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\textin1.dir/objects.a
+D:\MinGW\bin\ar.exe cr CMakeFiles\textin1.dir/objects.a @CMakeFiles\textin1.dir\objects1.rsp
+D:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\textin1.dir/objects.a -Wl,--no-whole-archive  -o textin1.exe -Wl,--out-implib,libtextin1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\textin1.dir\linklibs.rsp

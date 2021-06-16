@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/project/C++/Chapter 11/randwalk/main.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+vect.h
+D:/project/C++/Chapter 11/randwalk/vect.h
+
+D:/project/C++/Chapter 11/randwalk/vect.cpp
+vect.h
+D:/project/C++/Chapter 11/randwalk/vect.h
+cmath
+-
+
+D:/project/C++/Chapter 11/randwalk/vect.h
+iostream
+-
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/project/C++/Chapter 12/vegnews/main.cpp
+iostream
+-
+strngbad.h
+D:/project/C++/Chapter 12/vegnews/strngbad.h
+
+D:/project/C++/Chapter 12/vegnews/strngbad.h
+iostream
+-
+

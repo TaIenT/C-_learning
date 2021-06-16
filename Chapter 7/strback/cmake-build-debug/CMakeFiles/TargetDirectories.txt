@@ -1,0 +1,3 @@
+D:/project/C++/strback/cmake-build-debug/CMakeFiles/strback.dir
+D:/project/C++/strback/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/project/C++/strback/cmake-build-debug/CMakeFiles/rebuild_cache.dir

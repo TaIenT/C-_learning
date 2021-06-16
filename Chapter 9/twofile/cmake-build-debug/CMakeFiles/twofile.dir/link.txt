@@ -1,0 +1,3 @@
+"D:\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\twofile.dir/objects.a
+D:\MinGW\bin\ar.exe cr CMakeFiles\twofile.dir/objects.a @CMakeFiles\twofile.dir\objects1.rsp
+D:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\twofile.dir/objects.a -Wl,--no-whole-archive  -o twofile.exe -Wl,--out-implib,libtwofile.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\twofile.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+D:/project/C++/Chapter 12/vegnews/cmake-build-debug/CMakeFiles/vegnews.dir
+D:/project/C++/Chapter 12/vegnews/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/project/C++/Chapter 12/vegnews/cmake-build-debug/CMakeFiles/rebuild_cache.dir

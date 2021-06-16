@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/project/C++/Chapter 11/usetime0/main.cpp
+iostream
+-
+mytime0.h
+D:/project/C++/Chapter 11/usetime0/mytime0.h
+
+D:/project/C++/Chapter 11/usetime0/mytime0.cpp
+iostream
+-
+mytime0.h
+D:/project/C++/Chapter 11/usetime0/mytime0.h
+
+D:/project/C++/Chapter 11/usetime0/mytime0.h
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/project/C++/Chapter 15/nested/main.cpp
+iostream
+-
+string
+-
+queuetp.h
+D:/project/C++/Chapter 15/nested/queuetp.h
+
+D:/project/C++/Chapter 15/nested/queuetp.h
+

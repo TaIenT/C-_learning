@@ -1,0 +1,3 @@
+D:/project/C++/Chapter 10/stacker/cmake-build-debug/CMakeFiles/stacker.dir
+D:/project/C++/Chapter 10/stacker/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/project/C++/Chapter 10/stacker/cmake-build-debug/CMakeFiles/rebuild_cache.dir

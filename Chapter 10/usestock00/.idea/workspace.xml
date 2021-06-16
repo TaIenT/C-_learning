@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="usestock00" targetName="usestock00" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f0806e4-230d-4706-9b59-178efe0d217a" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1qovtKo5BtpPpbdLw7wT6ZGKIUn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\C++\Chapter 10\usestock00" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="usestock00" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="usestock00" TARGET_NAME="usestock00" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="usestock00" RUN_TARGET_NAME="usestock00">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f0806e4-230d-4706-9b59-178efe0d217a" name="默认的" comment="" />
+      <created>1617758970796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617758970796</updated>
+      <workItem from="1617758972988" duration="412000" />
+      <workItem from="1618119043381" duration="3668000" />
+      <workItem from="1618209435319" duration="53000" />
+      <workItem from="1618798865324" duration="1622000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="775" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1618125107563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="775" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.161.1360.725@0.0.1920.1040" timestamp="1618125107563" />
+    <state width="1921" height="289" key="GridCell.Tab.0.bottom" timestamp="1618126429415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.161.1360.725@0.0.1920.1040" timestamp="1618126429415" />
+    <state width="1921" height="289" key="GridCell.Tab.0.center" timestamp="1618126429415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.center/0.0.1920.1040/1920.161.1360.725@0.0.1920.1040" timestamp="1618126429415" />
+    <state width="1921" height="289" key="GridCell.Tab.0.left" timestamp="1618126429415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.left/0.0.1920.1040/1920.161.1360.725@0.0.1920.1040" timestamp="1618126429415" />
+    <state width="1921" height="289" key="GridCell.Tab.0.right" timestamp="1618126429415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.right/0.0.1920.1040/1920.161.1360.725@0.0.1920.1040" timestamp="1618126429415" />
+  </component>
+</project>
